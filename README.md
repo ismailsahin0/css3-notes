@@ -1,1 +1,1 @@
-# css3-notes
+My CSS3 notes from a tutorial.
